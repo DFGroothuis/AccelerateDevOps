@@ -38,6 +38,8 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
    ![Commit to branch](img/commit-to-branch.png)
 
+9. This line was added to the document at the review stage
+
    Navigate back to the pull request and note that you can review the file with all changes (`Files changed`) or individual `Commits`. You can comment in both views.
 
    ![Changes](img/changes.png)
